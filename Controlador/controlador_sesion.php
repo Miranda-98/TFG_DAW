@@ -1,7 +1,6 @@
 <?php
 require_once "../Modelo/usuario.php";
 
-
 $usuarioPrueba = new Usuario('','','','','','','','admin');
 
 if(isset($_REQUEST['inicio_Sesion'])){

@@ -90,7 +90,7 @@
                         <div class="item foto10"><img src="../img/fotos/baño_vertical.jpg" onclick="abrirCarrusel(10)"></div>
                         <div class="item foto11"><img src="../img/fotos/baño_completo.jpg" onclick="abrirCarrusel(11)"></div>
                         <div class="item foto12"><img src="../img/fotos/baño_horizontal.jpg" onclick="abrirCarrusel(12)"></div>
-                        <div class="item foto13"><img src="../img/fotos/baño_horizontal2.jpg" onclick="abrirCarrusel(13)"></div>
+                        <div class="item foto13"><img src="../img/fotos/baño_horizontal.jpg" onclick="abrirCarrusel(13)"></div>
                     </div>
                     <!-- Fin galeria de fotos -->
                 </div>
@@ -155,36 +155,16 @@
                 <div class="accordion-body">
                     <!-- Comienzo galeria de fotos -->
                     <div class="contenedor containerFotosEventos">
-                        <div class="item foto1"><img src="../img/evento/sala_jardin/jardin1.jpg" onclick="abrirCarrusel(37)"></div>
-                        <div class="item foto2"><img src="../img/evento/sala_jardin/jardin2.jpg" onclick="abrirCarrusel(38)"></div>
-                        <div class="item foto3"><img src="../img/evento/sala_jardin/jardin3.jpg" onclick="abrirCarrusel(39)"></div>
-                        <div class="item foto4"><img src="../img/evento/sala_jardin/jardin4.jpg" onclick="abrirCarrusel(40)"></div>
-                        <div class="item foto5"><img src="../img/evento/sala_jardin/jardin5.jpg" onclick="abrirCarrusel(41)"></div>
-                        <div class="item foto6"><img src="../img/evento/sala_jardin/jardin6.jpg" onclick="abrirCarrusel(42)"></div>
-                        <div class="item foto7"><img src="../img/evento/sala_jardin/jardin7.jpg" onclick="abrirCarrusel(43)"></div>
-                        <div class="item foto8"><img src="../img/evento/sala_jardin/jardin8.jpg" onclick="abrirCarrusel(44)"></div>
-                        <div class="item foto9"><img src="../img/evento/sala_jardin2/jardin1.png" onclick="abrirCarrusel(45)"></div>
-                        <div class="item foto10"><img src="../img/evento/sala_jardin2/jardin2.png" onclick="abrirCarrusel(46)"></div>
-                        <div class="item foto11"><img src="../img/evento/sala_jardin2/jardin3.png" onclick="abrirCarrusel(47)"></div>
-                        <div class="item foto12"><img src="../img/evento/sala_jardin2/jardin4.png" onclick="abrirCarrusel(48)"></div>
-                        <div class="item foto13"><img src="../img/evento/sala_jardin2/jardin5.png" onclick="abrirCarrusel(49)"></div>
-                        <div class="item foto14"><img src="../img/evento/sala_jardin2/jardin6.png" onclick="abrirCarrusel(50)"></div>
-                        <div class="item foto15"><img src="../img/evento/sala_jardin2/jardin7.png" onclick="abrirCarrusel(51)"></div>
-                        <div class="item foto16"><img src="../img/evento/sala_jardin2/jardin8.png" onclick="abrirCarrusel(52)"></div>
-                        <div class="item foto17"><img src="../img/evento/sala_jardin2/jardin9.png" onclick="abrirCarrusel(53)"></div>
-                        <div class="item foto18"><img src="../img/evento/sala_jardin2/jardin10.png" onclick="abrirCarrusel(54)"></div>
-                        <div class="item foto19"><img src="../img/evento/sala1/foto1.jpg" onclick="abrirCarrusel(55)"></div>
-                        <div class="item foto20"><img src="../img/evento/sala1/foto2.jpg" onclick="abrirCarrusel(56)"></div>
-                        <div class="item foto21"><img src="../img/evento/sala1/foto3.jpg" onclick="abrirCarrusel(57)"></div>
-                        <div class="item foto22"><img src="../img/evento/sala1/foto4.jpg" onclick="abrirCarrusel(58)"></div>
-                        <div class="item foto23"><img src="../img/evento/sala1/foto5.jpg" onclick="abrirCarrusel(59)"></div>
-                        <div class="item foto24"><img src="../img/evento/sala1/foto6.jpg" onclick="abrirCarrusel(60)"></div>
-                        <div class="item foto25"><img src="../img/evento/sala1/foto7.jpg" onclick="abrirCarrusel(61)"></div>
-                        <div class="item foto26"><img src="../img/evento/sala2/foto1.jpg" onclick="abrirCarrusel(62)"></div>
-                        <div class="item foto27"><img src="../img/evento/sala2/foto2.jpg" onclick="abrirCarrusel(63)"></div>
-                        <div class="item foto28"><img src="../img/evento/sala2/foto3.jpg" onclick="abrirCarrusel(64)"></div>
-                        <div class="item foto29"><img src="../img/evento/sala2/foto4.jpg" onclick="abrirCarrusel(65)"></div>
-                        <div class="item foto30"><img src="../img/evento/sala2/foto5.jpg" onclick="abrirCarrusel(66)"></div>
+                        <div class="item foto1"><img src="../img/evento/jardin1.jpg" onclick="abrirCarrusel(37)"></div>
+                        <div class="item foto2"><img src="../img/evento/jardin2.jpeg" onclick="abrirCarrusel(38)"></div>
+                        <div class="item foto3"><img src="../img/evento/jardin3.jpg" onclick="abrirCarrusel(39)"></div>
+                        <div class="item foto4"><img src="../img/evento/jardin4.jpg" onclick="abrirCarrusel(40)"></div>
+                        <div class="item foto5"><img src="../img/evento/jardin5.jpg" onclick="abrirCarrusel(41)"></div>
+                        <div class="item foto6"><img src="../img/evento/sala1.jpg" onclick="abrirCarrusel(42)"></div>
+                        <div class="item foto7"><img src="../img/evento/sala2.jpg" onclick="abrirCarrusel(43)"></div>
+                        <div class="item foto8"><img src="../img/evento/sala3.jpg" onclick="abrirCarrusel(44)"></div>
+                        <div class="item foto9"><img src="../img/evento/sala4.jpg" onclick="abrirCarrusel(45)"></div>
+                        <div class="item foto10"><img src="../img/evento/sala5.jpg" onclick="abrirCarrusel(56)"></div>
                     </div>
                     <!-- Fin galeria de fotos -->
                 </div>
@@ -200,10 +180,10 @@
                 <div class="accordion-body">
                     <!-- Comienzo galeria de fotos -->
                     <div class="contenedor containerFotosSpa">
-                        <div class="item foto1"><img src="../img/spa/foto1.jpg" onclick="abrirCarrusel(67)"></div>
-                        <div class="item foto2"><img src="../img/spa/foto2.jpg" onclick="abrirCarrusel(68)"></div>
-                        <div class="item foto3"><img src="../img/spa/foto3.jpg" onclick="abrirCarrusel(69)"></div>
-                        <div class="item foto4"><img src="../img/spa/foto4.jpg" onclick="abrirCarrusel(70)"></div>
+                        <div class="item foto1"><img src="../img/spa/foto1.jpg" onclick="abrirCarrusel(47)"></div>
+                        <div class="item foto2"><img src="../img/spa/foto2.jpg" onclick="abrirCarrusel(48)"></div>
+                        <div class="item foto3"><img src="../img/spa/foto3.jpg" onclick="abrirCarrusel(49)"></div>
+                        <div class="item foto4"><img src="../img/spa/foto4.jpg" onclick="abrirCarrusel(50)"></div>
                     </div>
                     <!-- Fin galeria de fotos -->
                 </div>
@@ -219,10 +199,10 @@
                 <div class="accordion-body">
                     <!-- Comienzo galeria de fotos -->
                     <div class="contenedor containerFotosGym">
-                        <div class="item foto1"><img src="../img/gym/foto1.jpg" onclick="abrirCarrusel(71)"></div>
-                        <div class="item foto2"><img src="../img/gym/foto2.jpg" onclick="abrirCarrusel(72)"></div>
-                        <div class="item foto3"><img src="../img/gym/foto3.jpg" onclick="abrirCarrusel(73)"></div>
-                        <div class="item foto4"><img src="../img/gym/foto4.jpg" onclick="abrirCarrusel(74)"></div>
+                        <div class="item foto1"><img src="../img/gym/foto1.jpg" onclick="abrirCarrusel(51)"></div>
+                        <div class="item foto2"><img src="../img/gym/foto2.jpg" onclick="abrirCarrusel(52)"></div>
+                        <div class="item foto3"><img src="../img/gym/foto3.jpg" onclick="abrirCarrusel(53)"></div>
+                        <div class="item foto4"><img src="../img/gym/foto4.jpg" onclick="abrirCarrusel(54)"></div>
                     </div>
                     <!-- Fin galeria de fotos -->
                 </div>
@@ -312,41 +292,16 @@ let imageList = [
 "../img/habitaciones/hab_comun/foto4.jpg",
 "../img/habitaciones/hab_comun/foto5.jpg",
     // eventos
-"../img/evento/sala_jardin/jardin1.jpg",
-"../img/evento/sala_jardin/jardin2.jpg",
-"../img/evento/sala_jardin/jardin3.jpg",
-"../img/evento/sala_jardin/jardin4.jpg",
-"../img/evento/sala_jardin/jardin5.jpg",
-"../img/evento/sala_jardin/jardin6.jpg",
-"../img/evento/sala_jardin/jardin7.jpg",
-"../img/evento/sala_jardin/jardin8.jpg",
-
-"../img/evento/sala_jardin2/jardin1.png",
-"../img/evento/sala_jardin2/jardin2.png",
-"../img/evento/sala_jardin2/jardin3.png",
-"../img/evento/sala_jardin2/jardin4.png",
-"../img/evento/sala_jardin2/jardin5.png",
-"../img/evento/sala_jardin2/jardin6.png",
-"../img/evento/sala_jardin2/jardin7.png",
-"../img/evento/sala_jardin2/jardin8.png",
-"../img/evento/sala_jardin2/jardin9.png",
-"../img/evento/sala_jardin2/jardin10.png",
-
-"../img/evento/sala1/foto1.jpg",
-"../img/evento/sala1/foto2.jpg",
-"../img/evento/sala1/foto3.jpg",
-"../img/evento/sala1/foto4.jpg",
-"../img/evento/sala1/foto5.jpg",
-"../img/evento/sala1/foto6.jpg",
-"../img/evento/sala1/foto7.jpg",
-
-"../img/evento/sala2/foto1.jpg",
-"../img/evento/sala2/foto2.jpg",
-"../img/evento/sala2/foto3.jpg",
-"../img/evento/sala2/foto4.jpg",
-"../img/evento/sala2/foto5.jpg",
-
-
+"../img/evento/jardin1.jpg",
+"../img/evento/jardin2.jpg",
+"../img/evento/jardin3.jpg",
+"../img/evento/jardin4.jpg",
+"../img/evento/jardin5.jpg",
+"../img/evento/sala1.jpg",
+"../img/evento/sala2.jpg",
+"../img/evento/sala3.jpg",
+"../img/evento/sala4.jpg",
+"../img/evento/sala5.jpg",
     // spa
 "../img/spa/foto1.jpg",
 "../img/spa/foto2.jpg",
@@ -354,9 +309,9 @@ let imageList = [
 "../img/spa/foto4.jpg",
     // gimnasio
 "../img/gym/foto1.jpg",
-"../img/gym/foto2.jpg",
-"../img/gym/foto3.jpg",
-"../img/gym/foto4.jpg"
+"../img/gym/foto1.jpg",
+"../img/gym/foto1.jpg",
+"../img/gym/foto1.jpg"
 
   
 ];

@@ -20,14 +20,15 @@
     <button name="btn_aniadir_Admin" class="btn">Añadir Administrador</button>
     <button name="btn_eliminar_Admin" class="btn" >Administradores</button>
     <button name="btn_anadir_estancia" class="btn" >Añadir Estancia</button>
-    <button name="btn_anadir_habitacion" class="btn" >Añadir Habitación</button>
-    <button name="btn_anadir_sala" class="btn">Añadir Sala</button>
+    <!-- <button name="btn_anadir_habitacion" class="btn" >Añadir Habitación</button> -->
+    <!-- <button name="btn_anadir_sala" class="btn">Añadir Sala</button> -->
     <button name="btn_ver_habitaciones" class="btn">Ver habitaciones</button>
     <button name="btn_ver_salas" class="btn">Ver salas</button>
+    <button name="btn_reserva_admin" class="btn">Hacer reserva</button>
     </form>
 
-    <p>Hacer reserva</p>
-    <p>Cancelar Reserva</p>
+    <!-- <p>Hacer reserva</p>
+    <p>Cancelar Reserva</p> -->
 
     
 
